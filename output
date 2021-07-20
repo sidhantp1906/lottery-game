@@ -1,0 +1,49 @@
+=====================start=============================================
+enter your name: sidhant
+
+welcome sidhant to our site to become crorepati in a simple way 
+open for only 5 members of your family 
+
+=======================entries=========================================
+type buy to buy lottery 'or'
+      type view to view lottery prizes and enrollment:
+        'and' exit to leave: buy
+confirm member1 name: sidhant
+congratulations!member 1: sidhant  for buying lottery
+type buy to buy lottery 'or'
+      type view to view lottery prizes and enrollment:
+        'and' exit to leave: buy
+confirm member2 name: pratima
+congratulations!member 2: pratima  for buying lottery
+type buy to buy lottery 'or'
+      type view to view lottery prizes and enrollment:
+        'and' exit to leave: buy
+confirm member3 name: adarsh
+congratulations!member 3: adarsh  for buying lottery
+type buy to buy lottery 'or'
+      type view to view lottery prizes and enrollment:
+        'and' exit to leave: buy
+confirm member4 name: shribhagwan
+congratulations!member 4: shribhagwan  for buying lottery
+type buy to buy lottery 'or'
+      type view to view lottery prizes and enrollment:
+        'and' exit to leave: buy
+confirm member5 name: chotu
+congratulations!member 5: chotu  for buying lottery
+type buy to buy lottery 'or'
+      type view to view lottery prizes and enrollment:
+        'and' exit to leave: view
+
+      prize1:car🚗
+      prize2:bike🏍
+      prize3:$150🎁
+      
+['', 'sidhant', 'pratima', 'adarsh', 'shribhagwan', 'chotu']
+=========================list==========================================
+final entry list: ['', 'sidhant', 'pratima', 'adarsh', 'shribhagwan', 'chotu']
+================================result=================================
+place 1: ['shribhagwan'] congo! u win car
+place 2: ['pratima'] congo! u win bike 
+place 3: ['adarsh'] congo! u win $150
+=================thankyou=============================================
+=====================copyright @sidhantp==============================
